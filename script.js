@@ -1,7 +1,7 @@
 // FIRST ASSIGNMENT
 
 // Vi har två lag som ska tävla mot varandra. Lage kommer att
-// spela tre rundor. Laget med högsta poäång vinner!
+// spela tre rundor. Laget med högsta poäng vinner!
 // DATA OG: 96, 108, 89
 // DATA ALLIANCE: 88, 91, 110
 // 1. Räkna ut medlevärdet för varje lag. Plussa ihop varje lags resultat
